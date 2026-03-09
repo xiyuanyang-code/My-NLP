@@ -1,0 +1,17 @@
+[project]
+name = "my-nlp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "datasets>=4.6.1",
+    "gpustat>=1.1.1",
+    "matplotlib>=3.10.8",
+    "numpy>=2.4.2",
+    "nvitop>=1.6.2",
+    "scikit-learn>=1.8.0",
+    "torch>=2.10.0",
+    "tqdm>=4.67.3",
+    "transformers>=5.3.0",
+]
