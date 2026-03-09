@@ -224,3 +224,6 @@ src/ai_2801/homework_1/output
 src/ai_2801/homework_2/ptb.train.txt
 
 models/gpt2
+
+src/ai_2801/homework_2/logs
+src/ai_2801/homework_2/checkpoints
