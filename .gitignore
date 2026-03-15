@@ -227,3 +227,7 @@ models/gpt2
 
 src/ai_2801/homework_2/logs
 src/ai_2801/homework_2/checkpoints
+
+src/ai_2801/homework_2/result
+src/ai_2801/homework_2/images
+src/ai_2801/homework_2/data
