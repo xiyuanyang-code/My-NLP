@@ -223,7 +223,7 @@ src/ai_2801/homework_1/output
 !src/ai_2801/homework_1/NLP_Assignment_1.pdf
 src/ai_2801/homework_2/ptb.train.txt
 
-models/gpt2
+models
 
 src/ai_2801/homework_2/logs
 src/ai_2801/homework_2/checkpoints
@@ -241,3 +241,7 @@ src/ai_2801/homework_3/data
 
 src/ai_2801/homework_3/fineweb
 src/ai_2801/homework_3/fineweb-edu-llama3-annotations
+
+src/ai_2801/homework_3/output
+src/ai_2801/homework_3/dataset
+src/ai_2801/homework_3/model.bin
